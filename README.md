@@ -1,4 +1,4 @@
-# Exercise 2
+# Game Dev Exercise 2
 
 Create a controllable car GameObject:
 
